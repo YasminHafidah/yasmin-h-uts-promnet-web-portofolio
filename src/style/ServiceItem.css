@@ -1,0 +1,7 @@
+.card{
+    transition: 0.8s;
+    border-left: gold solid 5px;
+}
+.card:hover{
+    transform: rotate(30deg);
+}
